@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "反转字符串中的单词3", "反转字符串中的单词3\反转字符串中的单词3.vcxproj", "{FE48D831-075F-4B2F-A728-9C47A81C3481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE48D831-075F-4B2F-A728-9C47A81C3481}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE48D831-075F-4B2F-A728-9C47A81C3481}.Debug|Win32.Build.0 = Debug|Win32
+		{FE48D831-075F-4B2F-A728-9C47A81C3481}.Release|Win32.ActiveCfg = Release|Win32
+		{FE48D831-075F-4B2F-A728-9C47A81C3481}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
