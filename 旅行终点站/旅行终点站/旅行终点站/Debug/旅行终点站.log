@@ -1,0 +1,12 @@
+﻿生成启动时间为 2020/5/6 20:53:12。
+     1>项目“F:\leetcode\旅行终点站\旅行终点站\旅行终点站\旅行终点站.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\win7_install\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>f:\leetcode\旅行终点站\旅行终点站\旅行终点站\源.cpp(43): error C2664: “char *destCity(char ***,int,int *)”: 无法将参数 1 从“char [3][2][100]”转换为“char ***”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“F:\leetcode\旅行终点站\旅行终点站\旅行终点站\旅行终点站.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.64
